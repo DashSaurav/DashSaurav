@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DashSaurav
 - 👀 I’m interested in Building Modules
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Analyst
+- 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me ...
 
 <!---
