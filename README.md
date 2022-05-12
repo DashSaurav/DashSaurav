@@ -2,7 +2,6 @@
 - 👀 I’m interested in Building Modules
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analysis
-- 📫 How to reach me ...
 
 <!---
 DashSaurav/DashSaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
